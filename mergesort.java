@@ -39,6 +39,7 @@ class Solution {
             }
         }
         System.out.println(con(array));
+        nums1 = array;
     }
     public static String con(int[] arr){
         if(arr.length == 0){
